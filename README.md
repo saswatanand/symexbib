@@ -1,7 +1,7 @@
-symexbib
+A bibliography of papers related to symbolic execution
 ========
 
-A bibliography of papers related to symbolic execution
+Please feel free to add to the list.
 
 
 |Title|Venue|Year|
