@@ -13,6 +13,7 @@ Please feel free to add to the list in the reverse chronological order.
 |Statistical Symbolic Execution with Informed Sampling |FSE |2014 |Antonio Filieri, Corina S. Păsăreanu, Willem Visser, and Jaco Geldenhuys|
 |Extending a Search-Based Test Generator with Adaptive Dynamic Symbolic Execution |ISSTA |2014 |Juan Pablo Galeotti, Gordon Fraser, and Andrea Arcuri|
 |Using Test Case Reduction and Prioritization to Improve Symbolic Execution |ISSTA |2014 |Chaoqiang Zhang, Alex Groce, Mohammad Amin Alipour|
+|An orchestrated survey of methodologies for automated software test case generation|Journal of Systems and Software|2013|Saswat Anand, Edmund Burke, Tsong Yueh Chen, John Clark, Myra B. Cohen, Wolfgang Grieskamp, Mark Harman, Mary Jean Harrold, Phil McMinn|
 |Verifying systems rules using rule-directed symbolic execution |ASPLOS |2013 |Heming Cui, Gang Hu, Jingyue Wu, and Junfeng Yang|
 |Symbolic Execution for Software Testing: Three Decades Later |CACM |2013 |Cristian Cadar and Koushik Sen.|
 |Boosting concolic testing via interpolation |FSE |2013 |Joxan Jaffar, Vijayaraghavan Murali, and Jorge A. Navas|
@@ -30,6 +31,7 @@ Please feel free to add to the list in the reverse chronological order.
 |Path exploration based on symbolic output |TOSEM |2013 |Dawei Qi, Hoang D. T. Nguyen, and Abhik Roychoudhury|
 |Redundant State Detection for Dynamic Symbolic Execution |USENIX |2013 |Suhabe Bugrara, Dawson Engler|
 |Augmented dynamic symbolic execution |ASE |2012 |Konrad Jamrozik, Gordon Fraser, Nikolai Tillmann and Jonathan de Halleux|
+|Automated Concolic Testing of Smartphone Apps |FSE | 2012|Saswat Anand, Mayur Naik, Hongseok Yang, Mary Jean Harrold|
 |Data Races vs. Data Race Bugs: Telling the Difference with Portend |ASPLOS |2012 |Baris Kasikci, Cristian Zamfir, George Candea|
 |TRACER: A Symbolic Execution Tool for Verification |CAV |2012 |Joxan Jaffar, Vijayaraghavan Murali, Jorge A. Navas, Andrew E. Santosa|
 |Computational verification of C protocol implementations by symbolic execution |CCS |2012 |Mihhail Aizatulin, Andrew D. Gordon, and Jan Jürjens|
@@ -169,8 +171,8 @@ Please feel free to add to the list in the reverse chronological order.
 |QAGen: generating query-aware test databases |SIGMOD Conf. |2007 |Carsten Binnig, Donald Kossmann, Eric Lo, M. Tamer Özsu|
 |Bouncer: securing software by blocking bad input |SOSP |2007 |
 |Exploring Multiple Execution Paths for Malware Analysis |Symposium on Security and Privacy |2007 |
-|JPF-SE: A Symbolic Execution Extension to Java PathFinder |TACAS |2007 |
-|Type-Dependence Analysis and Program Transformation for Symbolic Execution |TACAS |2007 |
+|JPF-SE: A Symbolic Execution Extension to Java PathFinder |TACAS |2007 |Saswat Anand, Corina Pasareanu, Willem Visser|
+|Type-Dependence Analysis and Program Transformation for Symbolic Execution |TACAS |2007 |Saswat Anand, Alex Orso, Mary Jean Harrold|
 |BitScope: Automatically Dissecting Malicious Binaries |Technical Report CMU-CS-07-133, School of Computer Science, Carnegie Mellon University |2007 |
 |Saturn: A scalable framework for error detection using Boolean satisfiability |TOPLAS |2007 |
 |Towards Automatic Discovery of Deviations in Binary Implementations with Applications to Error Detection and Fingerprint Generation |USENIX Security Symposium |2007 |David Brumley, Juan Caballero, Zhenkai Liang, James Newsome, Dawn Song|
