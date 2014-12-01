@@ -1,7 +1,9 @@
 A bibliography of papers related to symbolic execution
 ========
 
-Please let me know if you want to add any paper to the list. I would be happy to add you as an collborator on this project so that you can edit the list yourself.
+The foollowing list was earlier hosted at https://sites.google.com/site/symexbib/. From now on, the plan is to update only this list.
+
+The list is a bit out of date since I have not added many papers since 2013. Please let me know if you want to add any paper to the list. I would be happy to add you as an collborator on this project so that you can edit the list yourself.
 
 
 |Title|Venue|Year|Authors|
