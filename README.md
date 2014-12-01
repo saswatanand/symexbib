@@ -1,7 +1,7 @@
 A bibliography of papers related to symbolic execution
 ========
 
-Please feel free to add to the list in the reverse chronological order.
+Please let me know if you want to add any paper to the list. I would be happy to add you as an collborator on this project so that you can edit the list yourself.
 
 
 |Title|Venue|Year|Authors|
@@ -161,6 +161,7 @@ Please feel free to add to the list in the reverse chronological order.
 |Combining symbolic execution with model checking to verify parallel numerical programs |TOSEM |2008 |
 |Vigilante: End-to-End Containment of Internet Worm Epidemics |Transactions on Computer Systems |2008 |
 |Panalyst: privacy-aware remote error analysis on commodity software |USENIX Security Symposium |2008 |
+|A Decision Procedure for Bitvectors and Arrays| CAV | 2007 | Ganesh and Dill|
 |Directed test generation using symbolic grammars |ASE |2007 |
 |Creating Vulnerability Signatures Using Weakest Preconditions |Computer Security Foundations Symposium |2007 |
 |Predictive testing: amplifying the effectiveness of software testing |ESEC/FSE |2007 |
@@ -176,6 +177,7 @@ Please feel free to add to the list in the reverse chronological order.
 |BitScope: Automatically Dissecting Malicious Binaries |Technical Report CMU-CS-07-133, School of Computer Science, Carnegie Mellon University |2007 |
 |Saturn: A scalable framework for error detection using Boolean satisfiability |TOPLAS |2007 |
 |Towards Automatic Discovery of Deviations in Binary Implementations with Applications to Error Detection and Fingerprint Generation |USENIX Security Symposium |2007 |David Brumley, Juan Caballero, Zhenkai Liang, James Newsome, Dawn Song|
+|EXE: Automatically Generating Inputs of Death| CCS | 2006 | Cadar, Ganesh, Pawlowski, Dill, Engler |
 |Bogor/Kiasan: A k-bounded Symbolic Execution for Checking Strong Heap Properties of Open Systems |ASE |2006 |
 |Temporal search: detecting hidden malware timebombs with virtual machines |ASPLOS |2006 |Jedidiah R. Crandall, Gary Wassermann, Daniela A. S. de Oliveira, Zhendong Su, Shyhtsun Felix Wu, Frederic T. Chong|
 |CUTE and jCUTE: Concolic Unit Testing and Explicit Path Model-Checking Tools |CAV |2006 |
