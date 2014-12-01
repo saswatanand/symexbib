@@ -1,7 +1,7 @@
 A bibliography of papers related to symbolic execution
 ========
 
-Please feel free to add to the list.
+Please feel free to add to the list in the reverse chronological order.
 
 
 |Title|Venue|Year|
