@@ -1,9 +1,9 @@
 A bibliography of papers related to symbolic execution
 ========
 
-The foollowing list was earlier hosted at https://sites.google.com/site/symexbib/. From now on, the plan is to update only this list.
+The following list was earlier hosted at https://sites.google.com/site/symexbib/. From now on, the plan is to update only this list.
 
-The list is a bit out of date since I have not added many papers since 2013. Please let me know if you want to add any paper to the list. I would be happy to add you as an collborator on this project so that you can edit the list yourself.
+The list is a bit out of date since I have not added many papers since 2013. Please let me know if you want to add any paper to the list. Also, If you want to be a collborator on this project so that you can edit the list yourself, please let me know.
 
 
 |Title|Venue|Year|Authors|
@@ -15,6 +15,7 @@ The list is a bit out of date since I have not added many papers since 2013. Ple
 |Statistical Symbolic Execution with Informed Sampling |FSE |2014 |Antonio Filieri, Corina S. Păsăreanu, Willem Visser, and Jaco Geldenhuys|
 |Extending a Search-Based Test Generator with Adaptive Dynamic Symbolic Execution |ISSTA |2014 |Juan Pablo Galeotti, Gordon Fraser, and Andrea Arcuri|
 |Using Test Case Reduction and Prioritization to Improve Symbolic Execution |ISSTA |2014 |Chaoqiang Zhang, Alex Groce, Mohammad Amin Alipour|
+|Z3-str: a z3-based string solver for web application analysis|FSE|2013|Yunhui Zheng, Xiangyu Zhang, Vijay Ganesh|
 |An orchestrated survey of methodologies for automated software test case generation|Journal of Systems and Software|2013|Saswat Anand, Edmund Burke, Tsong Yueh Chen, John Clark, Myra B. Cohen, Wolfgang Grieskamp, Mark Harman, Mary Jean Harrold, Phil McMinn|
 |Verifying systems rules using rule-directed symbolic execution |ASPLOS |2013 |Heming Cui, Gang Hu, Jingyue Wu, and Junfeng Yang|
 |Symbolic Execution for Software Testing: Three Decades Later |CACM |2013 |Cristian Cadar and Koushik Sen.|
