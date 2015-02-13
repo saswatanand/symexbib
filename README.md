@@ -15,6 +15,7 @@ The list is a bit out of date since I have not added many papers since 2013. Ple
 |Statistical Symbolic Execution with Informed Sampling |FSE |2014 |Antonio Filieri, Corina S. Păsăreanu, Willem Visser, and Jaco Geldenhuys|
 |Extending a Search-Based Test Generator with Adaptive Dynamic Symbolic Execution |ISSTA |2014 |Juan Pablo Galeotti, Gordon Fraser, and Andrea Arcuri|
 |Using Test Case Reduction and Prioritization to Improve Symbolic Execution |ISSTA |2014 |Chaoqiang Zhang, Alex Groce, Mohammad Amin Alipour|
+|Enhancing Symbolic Execution with Built-In Term Rewriting and Constrained Lazy Initialization|FSE|2013|P. Braione, G. Denaro, M. Pezzè|
 |AppIntent: analyzing sensitive data transmission in android for privacy leakage detection|CCS|2013|Zhemin Yang, Min Yang, Yuan Zhang, Guofei Gu,Peng Ning, X. Sean Wang|
 |Z3-str: a z3-based string solver for web application analysis|FSE|2013|Yunhui Zheng, Xiangyu Zhang, Vijay Ganesh|
 |An orchestrated survey of methodologies for automated software test case generation|Journal of Systems and Software|2013|Saswat Anand, Edmund Burke, Tsong Yueh Chen, John Clark, Myra B. Cohen, Wolfgang Grieskamp, Mark Harman, Mary Jean Harrold, Phil McMinn|
