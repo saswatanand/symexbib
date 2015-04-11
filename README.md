@@ -8,6 +8,7 @@ The list is a bit out of date since I have not added many papers since 2013. Ple
 
 |Title|Venue|Year|Authors|
 |-----|-----|----|-------|
+|Enhancing Symbolic Execution with Veritesting |ICSE |2014 |Thanassis Avgerinos, Alexandre Rebert, Sang Kil Cha, David Brumley|
 |Prototyping Symbolic Execution Engines for Interpreted Languages |ASPLOS |2014 |Stefan Bucur, Johannes Kinder, George Candea|
 |Finding Trojan Message Vulnerabilities in Distributed Systems |ASPLOS |2014 |Radu Banabic, George Candea, Rachid Guerraoui|
 |How We Get There: A Context-Guided Search Strategy in Concolic Testing  |FSE |2014 |Hyunmin Seo and Sunghun Kim|
