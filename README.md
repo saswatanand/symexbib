@@ -199,11 +199,11 @@ The list is a bit out of date since I have not added many papers since 2013. Ple
 |Execution Generated Test Cases: How to Make Systems Code Crash Itself |SPIN |2005 |
 |Symstra: A Framework for Generating Object-Oriented Unit Tests Using Symbolic Execution |TACAS |2005 |
 |Automating mimicry attacks using static binary analysis |USENIX Security Symposium |2005 |
-|Test input generation with java PathFinder |ISSTA |2004 |
-|Verification of Java Programs Using Symbolic Execution and Invariant Generation |Model Checking Software, International SPIN Workshop |2004 |
-|Bogor: an extensible and highly-modular software model checking framework |FSE |2003 |
-|Generalized Symbolic Execution for Model Checking and Testing |TACAS |2003 |
-|Extended Static Checking for Java |PLDI |2002 |
-|Bandera: a source-level interface for model checking Java programs |ICSE |2000 |
-|Symbolic Testing and the DISSECT Symbolic Evaluation System |IEEE Tran. Software Engg. |1977 |
-|Symbolic Execution and Program Testing |Commun. ACM |1976 |
+|Test input generation with java PathFinder |ISSTA |2004 |Willem Visser, Corina S. Păsăreanu, Sarfraz Khurshid|
+|Verification of Java Programs Using Symbolic Execution and Invariant Generation |Model Checking Software, International SPIN Workshop |2004 |Corina S. Păsăreanu, Willem Visser|
+|Bogor: an extensible and highly-modular software model checking framework |FSE |2003 |Robby, Matthew B. Dwyer, John Hatcliff|
+|Generalized Symbolic Execution for Model Checking and Testing |TACAS |2003 |Sarfraz Khurshid, Corina S. Păsăreanu, Willem Visser|
+|Extended Static Checking for Java |PLDI |2002 |Cormac Flanagan, K. Rustan M. Leino, Mark Lillibridge, Greg Nelson, James B. Saxe, Raymie Stata|
+|Bandera: a source-level interface for model checking Java programs |ICSE |2000 |James C. Corbett, Matthew B. Dwyer, John Hatcliff, Robby|
+|Symbolic Testing and the DISSECT Symbolic Evaluation System |IEEE Tran. Software Engg. |1977 |William E. Howden
+|Symbolic Execution and Program Testing |Commun. ACM |1976 |James C. King|
