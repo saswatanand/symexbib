@@ -184,26 +184,26 @@ The list is a bit out of date since I have not added many papers since 2013. Ple
 |Saturn: A scalable framework for error detection using Boolean satisfiability |TOPLAS |2007 |
 |Towards Automatic Discovery of Deviations in Binary Implementations with Applications to Error Detection and Fingerprint Generation |USENIX Security Symposium |2007 |David Brumley, Juan Caballero, Zhenkai Liang, James Newsome, Dawn Song|
 |EXE: Automatically Generating Inputs of Death| CCS | 2006 | Cadar, Ganesh, Pawlowski, Dill, Engler |
-|Bogor/Kiasan: A k-bounded Symbolic Execution for Checking Strong Heap Properties of Open Systems |ASE |2006 |
+|Bogor/Kiasan: A k-bounded Symbolic Execution for Checking Strong Heap Properties of Open Systems |ASE |2006 |Xianghua Deng, Jooyong Lee, Robby|
 |Temporal search: detecting hidden malware timebombs with virtual machines |ASPLOS |2006 |Jedidiah R. Crandall, Gary Wassermann, Daniela A. S. de Oliveira, Zhendong Su, Shyhtsun Felix Wu, Frederic T. Chong|
-|CUTE and jCUTE: Concolic Unit Testing and Explicit Path Model-Checking Tools |CAV |2006 |
-|Test input generation for java containers using state matching |ISSTA |2006 |
-|Symbolic Execution with Abstract Subsumption Checking |Model Checking Software, International SPIN Workshop |2006 |
-|Symbolic execution of floating-point computations |Software Testing, Verification & Reliability |2006 |
-|Automatically Generating Malicious Disks using Symbolic Execution |Symposium on Security and Privacy |2006 |
-|MATRIX: Maintenance-Oriented Testing Requirements Identifier and Examiner |TAIC PART |2006 |
-|Test input generation for red-black trees using abstraction |ASE |2005 |
-|CUTE: a concolic unit testing engine for C |FSE |2005 |
-|Generalizing symbolic execution to library classes |PASTE |2005 |
-|DART: directed automated random testing |PLDI |2005 |
-|Execution Generated Test Cases: How to Make Systems Code Crash Itself |SPIN |2005 |
-|Symstra: A Framework for Generating Object-Oriented Unit Tests Using Symbolic Execution |TACAS |2005 |
-|Automating mimicry attacks using static binary analysis |USENIX Security Symposium |2005 |
-|Test input generation with java PathFinder |ISSTA |2004 |
-|Verification of Java Programs Using Symbolic Execution and Invariant Generation |Model Checking Software, International SPIN Workshop |2004 |
-|Bogor: an extensible and highly-modular software model checking framework |FSE |2003 |
-|Generalized Symbolic Execution for Model Checking and Testing |TACAS |2003 |
-|Extended Static Checking for Java |PLDI |2002 |
-|Bandera: a source-level interface for model checking Java programs |ICSE |2000 |
-|Symbolic Testing and the DISSECT Symbolic Evaluation System |IEEE Tran. Software Engg. |1977 |
-|Symbolic Execution and Program Testing |Commun. ACM |1976 |
+|CUTE and jCUTE: Concolic Unit Testing and Explicit Path Model-Checking Tools |CAV |2006 |Koushik Sen, Gul Agha|
+|Test input generation for java containers using state matching |ISSTA |2006 |Willem Visser, Corina S. Pasareanu, Radek Pelánek|
+|Symbolic Execution with Abstract Subsumption Checking |Model Checking Software, International SPIN Workshop |2006 |Saswat Anand, Corina S. Pasareanu, Willem Visser|
+|Symbolic execution of floating-point computations |Software Testing, Verification & Reliability |2006 |Bernard Botella, Arnaud Gotlieb, Claude Michel|
+|Automatically Generating Malicious Disks using Symbolic Execution |Symposium on Security and Privacy |2006 |Junfeng Yang, Can Sar, Paul Twohey, Cristian Cadar, Dawson R. Engler|
+|MATRIX: Maintenance-Oriented Testing Requirements Identifier and Examiner |TAIC PART |2006 |Taweesup Apiwattanapong, Raúl A. Santelices, Pavan Kumar Chittimalli, Alessandro Orso, Mary Jean Harrold|
+|Test input generation for red-black trees using abstraction |ASE |2005 |Willem Visser, Corina S. Pasareanu, Radek Pelánek|
+|CUTE: a concolic unit testing engine for C |FSE |2005 |Koushik Sen, Darko Marinov, Gul Agha|
+|Generalizing symbolic execution to library classes |PASTE |2005 |Sarfraz Khurshid, Yuk Lai Suen|
+|DART: directed automated random testing |PLDI |2005 |Patrice Godefroid, Nils Klarlund, Koushik Sen|
+|Execution Generated Test Cases: How to Make Systems Code Crash Itself |SPIN |2005 |Cristian Cadar, Dawson R. Engler|
+|Symstra: A Framework for Generating Object-Oriented Unit Tests Using Symbolic Execution |TACAS |2005 |Tao Xie, Darko Marinov, Wolfram Schulte, David Notkin|
+|Automating mimicry attacks using static binary analysis |USENIX Security Symposium |2005 |Christopher Kruegel, Engin Kirda, Darren Mutz, William K. Robertson, Giovanni Vigna|
+|Test input generation with java PathFinder |ISSTA |2004 |Willem Visser, Corina S. Păsăreanu, Sarfraz Khurshid|
+|Verification of Java Programs Using Symbolic Execution and Invariant Generation |Model Checking Software, International SPIN Workshop |2004 |Corina S. Păsăreanu, Willem Visser|
+|Bogor: an extensible and highly-modular software model checking framework |FSE |2003 |Robby, Matthew B. Dwyer, John Hatcliff|
+|Generalized Symbolic Execution for Model Checking and Testing |TACAS |2003 |Sarfraz Khurshid, Corina S. Păsăreanu, Willem Visser|
+|Extended Static Checking for Java |PLDI |2002 |Cormac Flanagan, K. Rustan M. Leino, Mark Lillibridge, Greg Nelson, James B. Saxe, Raymie Stata|
+|Bandera: a source-level interface for model checking Java programs |ICSE |2000 |James C. Corbett, Matthew B. Dwyer, John Hatcliff, Robby|
+|Symbolic Testing and the DISSECT Symbolic Evaluation System |IEEE Tran. Software Engg. |1977 |William E. Howden
+|Symbolic Execution and Program Testing |Commun. ACM |1976 |James C. King|
