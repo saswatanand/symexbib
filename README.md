@@ -3,7 +3,7 @@ A bibliography of papers related to symbolic execution
 
 The following list was earlier hosted at https://sites.google.com/site/symexbib/. From now on, the plan is to update only this list.
 
-The list is a bit out of date since I have not added many papers since 2013. Please let me know if you want to add any paper to the list. Also, If you want to be a collborator on this project so that you can edit the list yourself, please let me know.
+The list is a bit out of date since I have not added many papers since 2013. But I would love to keep it up to date. If you want to add any paper to the list, please send a pull request or email me (http://www.cs.stanford.edu/~saswat). 
 
 
 |Title|Venue|Year|Authors|
