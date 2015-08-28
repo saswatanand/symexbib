@@ -8,6 +8,9 @@ The list is a bit out of date since I have not added many papers since 2013. Ple
 
 |Title|Venue|Year|Authors|
 |-----|-----|----|-------|
+|Proving Memory Safety of the ANI Windows Image Parser Using Compositional Exhaustive Testing |VMCAI |2015 |Maria Christakis, Patrice Godefroid|
+|Dynamic Test Generation with Static Fields and Initializers |RV |2014 |Maria Christakis, Patrick Emmisberger, Peter Müller|
+|Synthesizing Parameterized Unit Tests to Detect Object Invariant Violations |SEFM |2014 |Maria Christakis, Peter Müller, Valentin Wüstholz|
 |Enhancing Symbolic Execution with Veritesting |ICSE |2014 |Thanassis Avgerinos, Alexandre Rebert, Sang Kil Cha, David Brumley|
 |Prototyping Symbolic Execution Engines for Interpreted Languages |ASPLOS |2014 |Stefan Bucur, Johannes Kinder, George Candea|
 |Finding Trojan Message Vulnerabilities in Distributed Systems |ASPLOS |2014 |Radu Banabic, George Candea, Rachid Guerraoui|
@@ -37,6 +40,7 @@ The list is a bit out of date since I have not added many papers since 2013. Ple
 |Path exploration based on symbolic output |TOSEM |2013 |Dawei Qi, Hoang D. T. Nguyen, and Abhik Roychoudhury|
 |Redundant State Detection for Dynamic Symbolic Execution |USENIX |2013 |Suhabe Bugrara, Dawson Engler|
 |Augmented dynamic symbolic execution |ASE |2012 |Konrad Jamrozik, Gordon Fraser, Nikolai Tillmann and Jonathan de Halleux|
+|Collaborative Verification and Testing with Explicit Assumptions |FM |2012 |Maria Christakis, Peter Müller, Valentin Wüstholz|
 |Automated Concolic Testing of Smartphone Apps |FSE | 2012|Saswat Anand, Mayur Naik, Hongseok Yang, Mary Jean Harrold|
 |Data Races vs. Data Race Bugs: Telling the Difference with Portend |ASPLOS |2012 |Baris Kasikci, Cristian Zamfir, George Candea|
 |TRACER: A Symbolic Execution Tool for Verification |CAV |2012 |Joxan Jaffar, Vijayaraghavan Murali, Jorge A. Navas, Andrew E. Santosa|
