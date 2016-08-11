@@ -9,7 +9,7 @@ The list is a bit out of date since I have not added many papers since 2013. But
 |Title|Venue|Year|Authors|
 |-----|-----|----|-------|
 |Proving Memory Safety of the ANI Windows Image Parser Using Compositional Exhaustive Testing |VMCAI |2015 |Maria Christakis, Patrice Godefroid|
-|Exact and approximate probabilistic symbolic execution for nondeterministic programs |ASE |2014 |Kasper Luckow, Corina S. Pasareanu, Matthew B. Dwyer, Antonio Filieri, Willem Visser|
+|Exact and Approximate Probabilistic Symbolic Execution for Nondeterministic Programs |ASE |2014 |Kasper Luckow, Corina S. Pasareanu, Matthew B. Dwyer, Antonio Filieri, Willem Visser|
 |Dynamic Test Generation with Static Fields and Initializers |RV |2014 |Maria Christakis, Patrick Emmisberger, Peter Müller|
 |Synthesizing Parameterized Unit Tests to Detect Object Invariant Violations |SEFM |2014 |Maria Christakis, Peter Müller, Valentin Wüstholz|
 |Enhancing Symbolic Execution with Veritesting |ICSE |2014 |Thanassis Avgerinos, Alexandre Rebert, Sang Kil Cha, David Brumley|
